@@ -2,3 +2,5 @@
 Repositório de teste da disciplina de ICO - Turma Linda
 
 Eu menti
+
+Criando uma alteração LOCAL no README.md
